@@ -70,6 +70,7 @@
     *   `tf.experimental.ExtensionType` now supports Python `tuple` as the type annotation of its fields.
 
 *    `tf.nest`:
+
     *   Deprecated API `tf.nest.is_sequence` has now been deleted. Please use `tf.nest.is_nested` instead.
 
 
